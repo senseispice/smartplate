@@ -22,7 +22,7 @@ import Profile from "../pages/profile";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyA-WVym4W8P9KY8YCITblmtODBls5QpglI",
+  apiKey: "YOUR_API_KEY",
   authDomain: "smartplate-f3780.firebaseapp.com",
   projectId: "smartplate-f3780",
   storageBucket: "smartplate-f3780.appspot.com",
